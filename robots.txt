@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://speoma.github.io/sitemap.html.gz
+Sitemap: https://speoma.github.io/app/sitemap.html.gz
+Sitemap: https://speoma.github.io/assets/sitemap.html.gz
+Sitemap: https://speoma.github.io/css/sitemap.html.gz
+Sitemap: https://speoma.github.io/includes/sitemap.html.gz
+Sitemap: https://speoma.github.io/item/sitemap.html.gz
+Sitemap: https://speoma.github.io/src/sitemap.html.gz
